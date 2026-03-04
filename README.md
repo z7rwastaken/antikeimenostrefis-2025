@@ -10,7 +10,8 @@
 > *🗓️ Το υλικό αναφέρεται στο Ακαδημαϊκό Έτος 2025-2026 του [Τμήματος Μηχανικών Πληροφορικής και Ηλεκτρονικών Συστημάτων](https://iee.ihu.gr) του ΔΙΠΑΕ.*
 
 ## 🔗 Γρήγορη Πρόσβαση
-- [☕ 1ο Εργαστήριο](https://github.com/z7rwastaken/antikeimenostrefis-2025/tree/main/lab-1/src/main/java/com/example/lab1)
+- [☕ 1ο Εργαστήριο](https://github.com/z7rwastaken/antikeimenostrefis-2025/tree/main/src/main/java/com/example/lab1)
+- [☕ 2ο Εργαστήριο](https://github.com/z7rwastaken/antikeimenostrefis-2025/tree/main/src/main/java/com/example/lab2)
 
 ## 💻 Προτεινόμενο Περιβάλλον Ανάπτυξης (IDE): IntelliJ IDEA
 Για την καλύτερη δυνατή εμπειρία συγγραφής κώδικα (ειδικά σε Java), προτείνεται η χρήση του **IntelliJ IDEA** της JetBrains. 
