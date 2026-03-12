@@ -15,10 +15,10 @@
 
 ## 🔗 Γρήγορη Πρόσβαση
 
-- [☕ 1ο Εργαστήριο](https://github.com/z7rwastaken/antikeimenostrefis-2025/tree/main/src/main/java/com/example/lab1)
-- [☕ 2ο Εργαστήριο](https://github.com/z7rwastaken/antikeimenostrefis-2025/tree/main/src/main/java/com/example/lab2)
-- [☕ 3ο Εργαστήριο](https://github.com/z7rwastaken/antikeimenostrefis-2025/tree/main/src/main/java/com/example/lab3)
-- [☕ 4ο Εργαστήριο](https://github.com/z7rwastaken/antikeimenostrefis-2025/tree/main/src/main/java/com/example/lab4)
+- [☕ 1ο Εργαστήριο](https://github.com/andreaskapsalhs/antikeimenostrefis-2025/tree/main/src/main/java/com/example/lab1)
+- [☕ 2ο Εργαστήριο](https://github.com/andreaskapsalhs/antikeimenostrefis-2025/tree/main/src/main/java/com/example/lab2)
+- [☕ 3ο Εργαστήριο](https://github.com/andreaskapsalhs/antikeimenostrefis-2025/tree/main/src/main/java/com/example/lab3)
+- [☕ 4ο Εργαστήριο](https://github.com/andreaskapsalhs/antikeimenostrefis-2025/tree/main/src/main/java/com/example/lab4)
 
 ## 💻 Προτεινόμενο Περιβάλλον Ανάπτυξης (IDE): IntelliJ IDEA
 
@@ -38,12 +38,12 @@ JetBrains.
 - Αυτές οι λύσεις παρέχονται **αποκλειστικά για εκπαιδευτικούς σκοπούς**. Χρησιμοποιήστε τες ως σημείο αναφοράς για να
   κατανοήσετε τη λογική, και όχι για απευθείας αντιγραφή.
 - Οι λύσεις αποτελούν προσωπική προσπάθεια **και ενδέχεται να περιέχουν λάθη**. Εάν εντοπίσετε κάποιο σφάλμα, η
-  επισήμανσή του μέσω ενός *[Issue](https://github.com/z7rwastaken/antikeimenostrefis-2025/issues)* ή
-  *[Pull Request](https://github.com/z7rwastaken/antikeimenostrefis-2025/pulls)* είναι παραπάνω από ευπρόσδεκτη!
+  επισήμανσή του μέσω ενός *[Issue](https://github.com/andreaskapsalhs/antikeimenostrefis-2025/issues)* ή
+  *[Pull Request](https://github.com/andreaskapsalhs/antikeimenostrefis-2025/pulls)* είναι παραπάνω από ευπρόσδεκτη!
 
 ## 📫 Επικοινώνησε μαζί μου
 
-- **GitHub**: [@z7rwastaken](https://github.com/z7rwastaken)
+- **GitHub**: [@andreaskapsalhs](https://github.com/andreaskapsalhs)
 - **Email**: andreaskapsalhs@gmail.com
 - **Discord**: [@z7rwastaken](https://discord.com)
 
