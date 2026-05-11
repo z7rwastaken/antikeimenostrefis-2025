@@ -4,11 +4,11 @@ import com.example.lab7.askisi2.Engine;
 import com.example.lab7.askisi2.SteeringSystem;
 
 public abstract class Vehicle {
-    private String owner;
-    private int licensePlate;
-    private int manufactureYear;
-    private SteeringSystem steeringSystem;
-    private Engine engine;
+    protected String owner;
+    protected int licensePlate;
+    protected int manufactureYear;
+    protected SteeringSystem steeringSystem;
+    protected Engine engine;
 
     public Vehicle(String owner, int licensePlate, int manufactureYear, SteeringSystem steeringSystem, Engine engine) {
         this.owner = owner;

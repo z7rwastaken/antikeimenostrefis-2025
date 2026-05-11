@@ -21,7 +21,9 @@
   - [📊 5ο | Αλγόριθμοι ταξινόμησης με ανταλλαγή](https://github.com/andreaskapsalhs/antikeimenostrefis-2025/tree/main/src/main/java/com/example/lab5)
   - [🌀 6ο | Αλγόριθμοι ταξινόμησης με αναδρομή](https://github.com/andreaskapsalhs/antikeimenostrefis-2025/tree/main/src/main/java/com/example/lab6)
   - [🧬 7ο | Σύνθεση, Κληρονομικότητα, Εξειδίκευση](https://github.com/andreaskapsalhs/antikeimenostrefis-2025/tree/main/src/main/java/com/example/lab7)
-  - [🎭 8ο | Πολυμορφισμός - 1](https://github.com/andreaskapsalhs/antikeimenostrefis-2025/tree/main/src/main/java/com/example/lab8)
+  - [🎭 8ο | Γενίκευση, Πολυμορφισμός - 1](https://github.com/andreaskapsalhs/antikeimenostrefis-2025/tree/main/src/main/java/com/example/lab8)
+  - [🎭 9ο | Γενίκευση, Πολυμορφισμός - 1](https://github.com/andreaskapsalhs/antikeimenostrefis-2025/tree/main/src/main/java/com/example/lab9)
+
 
 * Σημειώσεις:
   - 🔜 | Σύντομα
